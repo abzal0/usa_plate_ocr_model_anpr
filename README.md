@@ -81,10 +81,7 @@ The model detects individual characters and their positions, allowing you to rec
 **Attribution Required**: Please credit the original author:
 - GitHub: [@abzal0](https://github.com/abzal0)
 - Mention: "USA Plate OCR model by [Abzal Assembekov & Franz]"
-
-## Why Free?
-
-I trained this model for a different project (UAE license plates) and no longer need it. Rather than let it sit unused, I'm publishing it for anyone building ANPR (Automatic Number Plate Recognition) software for USA license plates.
+ 
 
 ## Limitations
 
