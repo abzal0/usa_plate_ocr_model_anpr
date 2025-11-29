@@ -97,4 +97,15 @@ The model detects individual characters and their positions, allowing you to rec
 
 Feel free to fine-tune this model on your own data or report issues.
 
-Test image istockphoto-1173375259-2048x2048.jpg is from [Istock by Berezko](https://www.istockphoto.com/portfolio/Berezko?mediatype=photography) 
+Test image istockphoto-1173375259-2048x2048.jpg is from [Istock by Berezko](https://www.istockphoto.com/portfolio/Berezko?mediatype=photography)
+
+## Related ANPR APIs
+
+- [UAE ANPR API](https://anpr.software/uae-license-plate-recognition-api)
+- [Saudi ANPR API](https://anpr.software/saudi-arabia-license-plate-recognition-api)
+- [Qatar ANPR API](https://anpr.software/qatar-license-plate-recognition-api)
+- [Kuwait ANPR API](https://anpr.software/kuwait-license-plate-recognition-api)
+- [Bahrain ANPR API](https://anpr.software/bahrain-license-plate-recognition-api)
+- [Oman ANPR API](https://anpr.software/oman-license-plate-recognition-api)
+- [License plate recognition for GCC](https://anpr.software)
+
